@@ -1,9 +1,9 @@
 # Quantum Algorithms & Simulation Portfolio
 
-**Author:** Ansh Droch
-**Affiliation:** National Institute of Science Education and Research (NISER)
-**Standing:** DISHA Scholar, Integrated M.Sc. in Mathematics (Minor in CS)
-**Contact:** ansh.droch@niser.ac.in
+**Author:** Ansh Droch**
+**Affiliation:** National Institute of Science Education and Research (NISER)**
+**Integrated M.Sc. in Mathematics (Minor in CS)**
+**Contact:** ansh.droch@niser.ac.in**
 
 ## 🚀 Overview
 This repository contains implementations of quantum algorithms and simulations using **Qiskit**, focusing on Quantum Walks, Variational Algorithms (VQE), and Error Correction. These projects demonstrate a bridge between abstract mathematical theory (Group Theory, Linear Algebra) and practical implementation on NISQ devices.
